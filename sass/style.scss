@@ -187,12 +187,13 @@
     align-items: center;
     justify-content: center;
   }
-  @media (min-width: 460px) {
+ 
+  @media (min-width: 460px) 
   .footer .container {
     position: absolute;
     left: 0;
     }
-  }
+
   @media (max-width: 460px) {
   .bg-img {
     min-height: 300px;

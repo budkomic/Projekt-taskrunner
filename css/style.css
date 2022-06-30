@@ -13,5 +13,5 @@ body::before {
   padding: 1em;
   margin-bottom: 1em;
   border-bottom: 2px solid black;
-  content: 'Error: expected "}".\a     \2577 \a 223 \2502    }\d\a     \2502     ^\a     \2575 \a   sass\\style.scss 223:4  root stylesheet';
+  content: 'Error: expected "}".\a     \2577 \a 223 \2502    }\a     \2502     ^\a     \2575 \a   sass\\style.scss 223:4  root stylesheet';
 }
